@@ -1,0 +1,14 @@
+C:\Users\Rendo\desktop\Stats\bin\Debug\netcoreapp2.2\Stats.deps.json
+C:\Users\Rendo\desktop\Stats\bin\Debug\netcoreapp2.2\Stats.runtimeconfig.json
+C:\Users\Rendo\desktop\Stats\bin\Debug\netcoreapp2.2\Stats.runtimeconfig.dev.json
+C:\Users\Rendo\desktop\Stats\bin\Debug\netcoreapp2.2\Stats.dll
+C:\Users\Rendo\desktop\Stats\bin\Debug\netcoreapp2.2\Stats.pdb
+C:\Users\Rendo\desktop\Stats\obj\Debug\netcoreapp2.2\Stats.csprojAssemblyReference.cache
+C:\Users\Rendo\desktop\Stats\obj\Debug\netcoreapp2.2\Stats.csproj.CoreCompileInputs.cache
+C:\Users\Rendo\desktop\Stats\obj\Debug\netcoreapp2.2\Stats.RazorAssemblyInfo.cache
+C:\Users\Rendo\desktop\Stats\obj\Debug\netcoreapp2.2\Stats.RazorAssemblyInfo.cs
+C:\Users\Rendo\desktop\Stats\obj\Debug\netcoreapp2.2\Stats.AssemblyInfoInputs.cache
+C:\Users\Rendo\desktop\Stats\obj\Debug\netcoreapp2.2\Stats.AssemblyInfo.cs
+C:\Users\Rendo\desktop\Stats\obj\Debug\netcoreapp2.2\Stats.RazorTargetAssemblyInfo.cache
+C:\Users\Rendo\desktop\Stats\obj\Debug\netcoreapp2.2\Stats.dll
+C:\Users\Rendo\desktop\Stats\obj\Debug\netcoreapp2.2\Stats.pdb
